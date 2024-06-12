@@ -8,14 +8,14 @@ public class HelloWorldController {
     @GetMapping("/hello")
     @ResponseBody
     public String saluda(@RequestParam(value = "name", defaultValue = "UNNKNOWN") String name) {
-        return "Hello " + name + " you are executing a Maven project!";
+        return "Hello " + name + " you are executing a Gradle project!";
     }
 
     @GetMapping({"/hello2", "/hello2/{name}"})
     public String saluda2(@PathVariable(required = false) String name) {
         if(name == null) name = "UNNKNOWN";
 
-        return "Hello " + name + " you are executing a Maven project!";
+        return "Hello " + name + " you are executing a Gradle project!";
     }
 
 
