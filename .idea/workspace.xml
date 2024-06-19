@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="133299bf-cf0c-4827-a59d-aafe67742625" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Tasca1/Sprint4Gradle/.idea/Sprint4Gradle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca1/Sprint4Maven/.idea/Sprint4Tasca1Maven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca2/Nivel1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca2/Nivel1/.idea/Nivel1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca2/Nivel1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca2/Nivel1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca2/Nivel1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca2/Nivel1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca2/Nivel1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca2/Nivel1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Gradle/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Gradle/.idea/Sprint4Gradle.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Gradle/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Gradle/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Gradle/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Gradle/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Gradle/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Gradle/S04T01N02RodriguezMarc/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Gradle/S04T01N02RodriguezMarc/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Gradle/S04T01N02RodriguezMarc/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Gradle/S04T01N02RodriguezMarc/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Gradle/S04T01N02RodriguezMarc/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Gradle/S04T01N02RodriguezMarc/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Gradle/S04T01N02RodriguezMarc/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Gradle/S04T01N02RodriguezMarc/src/main/java/cat/itacademy/barcelonactiva/rodriguez/marc/s04/t01/n02/S04T01N02RodriguezMarc/Controllers/HelloWorldController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Gradle/S04T01N02RodriguezMarc/src/main/java/cat/itacademy/barcelonactiva/rodriguez/marc/s04/t01/n02/S04T01N02RodriguezMarc/S04T01N02RodriguezMarcApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Gradle/S04T01N02RodriguezMarc/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Gradle/S04T01N02RodriguezMarc/src/test/java/cat/itacademy/barcelonactiva/rodriguez/marc/s04/t01/n02/S04T01N02RodriguezMarc/S04T01N02RodriguezMarcApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Maven/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Maven/.idea/Sprint4Tasca1Maven.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Maven/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Maven/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Maven/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Maven/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Maven/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Maven/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Maven/S04T01N01RodriguezMarc/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Maven/S04T01N01RodriguezMarc/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Maven/S04T01N01RodriguezMarc/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Maven/S04T01N01RodriguezMarc/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Maven/S04T01N01RodriguezMarc/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Maven/S04T01N01RodriguezMarc/src/main/java/cat/itacademy/barcelonactiva/cognoms/nom/s04/t01/n01/S04T01N01RodriguezMarc/Controllers/HelloWorldController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Maven/S04T01N01RodriguezMarc/src/main/java/cat/itacademy/barcelonactiva/cognoms/nom/s04/t01/n01/S04T01N01RodriguezMarc/S04T01N01RodriguezMarcApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Maven/S04T01N01RodriguezMarc/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Maven/S04T01N01RodriguezMarc/src/test/java/cat/itacademy/barcelonactiva/cognoms/nom/s04/t01/n01/S04T01N01RodriguezMarc/S04T01N01RodriguezMarcApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Postman/Gradle/Definición variables.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Postman/Gradle/Gradel Project.postman_collection.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Postman/Gradle/hello parametrizado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Postman/Gradle/hello sin parametrizar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Postman/Gradle/hello2 parametrizado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Postman/Gradle/hello2 sin parametrizar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Postman/Maven/Definición variables.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Postman/Maven/Maven Project.postman_collection.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Postman/Maven/hello 2 sin parametrizar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Postman/Maven/hello parametrizado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Postman/Maven/hello sin parametrizar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIvel1/Sprint4Postman/Maven/hello2 parametrizado.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2hp2T7AbcRe3GHuWbIjciPwGFbb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/marcr/IdeaProjects/Sprint4"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="133299bf-cf0c-4827-a59d-aafe67742625" name="Changes" comment="" />
+      <created>1718276703798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718276703798</updated>
+    </task>
+    <servers />
+  </component>
+</project>

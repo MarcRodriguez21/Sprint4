@@ -1,0 +1,4 @@
+2024-06-19 13:39:29.630682+02:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "SELECT * FROM INFORMATION_SCHEMA.[*]"; se esperaba "identifier"
+Syntax error in SQL statement "SELECT * FROM INFORMATION_SCHEMA.[*]"; expected "identifier"; SQL statement:
+SELECT * FROM INFORMATION_SCHEMA. [42001-224]
