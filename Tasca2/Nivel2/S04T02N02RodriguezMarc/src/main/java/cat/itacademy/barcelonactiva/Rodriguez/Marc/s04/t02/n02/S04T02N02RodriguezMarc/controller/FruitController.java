@@ -1,7 +1,8 @@
-package cat.itacademy.barcelonactiva.rodriguez.marc.s04.t02.n01.S04T02N01RodriguezMarc.controllers;
+package cat.itacademy.barcelonactiva.Rodriguez.Marc.s04.t02.n02.S04T02N02RodriguezMarc.controller;
 
-import cat.itacademy.barcelonactiva.rodriguez.marc.s04.t02.n01.S04T02N01RodriguezMarc.model.domain.Fruit;
-import cat.itacademy.barcelonactiva.rodriguez.marc.s04.t02.n01.S04T02N01RodriguezMarc.model.services.FruitServices;
+
+import cat.itacademy.barcelonactiva.Rodriguez.Marc.s04.t02.n02.S04T02N02RodriguezMarc.model.domain.Fruit;
+import cat.itacademy.barcelonactiva.Rodriguez.Marc.s04.t02.n02.S04T02N02RodriguezMarc.model.services.FruitServices;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -50,5 +51,6 @@ public class FruitController {
         return ResponseEntity.ok(fruitServices.getAllFruits().toString());
     }
 }
+
 
 
